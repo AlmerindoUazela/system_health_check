@@ -1,5 +1,6 @@
-# health_check
+# Computer health check
 
-Bunch of scripts to check computer health
-
-Cloning the Repository to my local computer
+Set of functions that verify the health of the computer. Checks include:
+-.Available space
+-.CPU resources
+-.Connectivity
